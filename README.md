@@ -1,5 +1,7 @@
 👋 Hello, I'm Davi!
+
 🚀 About Me
+
 Sou formado em Técnico em Informática para Internet com foco em Desenvolvimento Web pela ETEC.
 
 Atualmente, sou estudante do 1.º ano de Engenharia da Computação na Universidade de Taubaté (UNITAU), onde desenvolvo competências em programação, algoritmos, redes de computadores e sistemas embarcados. Conquistei uma bolsa de estudos integral por mérito, sendo reconhecido como o melhor aluno do ensino médio, o que me permitiu ingressar na universidade sem custos.
