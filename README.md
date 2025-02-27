@@ -57,7 +57,7 @@
     <a href="https://www.instagram.com/zd4vi_i/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href="https://discord.com/channels/@me" target="_blank">
+    <a href="692331654571884635" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a>
     <a href="mailto:davi.martins1362@gmail.com">
