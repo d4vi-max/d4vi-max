@@ -24,7 +24,3 @@ HTML CSS PHP PHP Bootstrap Mysql
 📌 GitHub: d4vi-max
 📌 E-mail: davi.martins1362@gmail.com
 📌 Linkedin: https://www.linkedin.com/in/davi-nic%C3%A9sio-a35480279/
-<!---
-d4vi-max/d4vi-max is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
