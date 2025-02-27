@@ -35,19 +35,19 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=d4vi-max&theme=dracula" />
 </a>
 <a href="https://github.com/d4vi-max/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4vi-max&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=200 width=550 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4vi-max&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 </div>
 
 ## 👨‍💻💻 Tecnologias - Ferramentas
 
 <div align="center" style="display: inline_block"><br>
-    <img align="center" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-    <img align="center" height="65" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ## 📌📌 Contatos
