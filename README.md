@@ -49,19 +49,19 @@
 ## 📌📌 Contatos
 
 <div>
-    <a href="[https://www.youtube.com/channel/UC_uuuZbY0At9CVlNzvC-Q](https://www.youtube.com/@d4vi_964)" target="_blank">
+    <a href="https://www.youtube.com/@d4vi_964" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
-    <a href="[https://instagram.com/rafaballerini](https://www.instagram.com/zd4vi_i/)" target="_blank">
+    <a href="https://www.instagram.com/zd4vi_i/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href="[https://discord.gg/GPGp5A57](https://discord.com/channels/@me)" target="_blank">
+    <a href="https://discord.com/channels/@me" target="_blank">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
     </a>
     <a href="mailto:davi.martins1362@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-%23333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/davi-nic%C3%A9sio-a35480279/)" target="_blank">
+    <a href="https://www.linkedin.com/in/davi-nic%C3%A9sio-a35480279/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
 
