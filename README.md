@@ -1,5 +1,7 @@
 ## 👋 Oii sou o Davi
 
+<img height=200 align="center" src="https://www.slazzer.com/downloads/50a6cadd-f53b-11ef-9082-65458f23d306/2252292_mwAjC19b_prev_ui.png" />
+
 ## 👀 Sobre Mim!
 
 - Sou formado em Técnico em Informática para Internet com foco em Desenvolvimento Web pela ETEC.
@@ -38,12 +40,12 @@
 ## 👨‍💻💻 Tecnologias - Ferramentas
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
 ## 📌📌 Contatos
@@ -64,9 +66,10 @@
     <a href="https://www.linkedin.com/in/davi-nic%C3%A9sio-a35480279/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
-
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<img height=200 align="center" src="https://media3.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=6c09b9528opnifkxjnoo6dlativ2ho40bzizr6n4pqg557wf&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+
 
 
 
