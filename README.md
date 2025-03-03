@@ -1,6 +1,6 @@
 ## 👋 OII SOU O DAVI
 
-<img height=200 align="center" src="https://www.slazzer.com/downloads/50a6cadd-f53b-11ef-9082-65458f23d306/2252292_mwAjC19b_prev_ui.png" />
+<img height=200 align="center" src="C:\Users\D4VI_I\Downloads\Picture My.png" />
 
 ## 👀 Sobre Mim!
 
