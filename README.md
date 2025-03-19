@@ -50,8 +50,6 @@
 
 ### 📊 Estatísticas
 
-### 📊 Estatísticas
-
 <div style="display: flex; align-items: center; gap: 20px;">
   <img 
     alt="GitHub Stats" 
