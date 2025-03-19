@@ -1,58 +1,20 @@
-## 👋 OII SOU O DAVI
+# 👨‍💻 Davi Nicésio
 
-<img height=200 align="center" src="https://i.imgur.com/JzZVlTS.gif" />
-
-## 👀 Sobre Mim!
-
-- Sou formado em Técnico em Informática para Internet com foco em Desenvolvimento Web pela ETEC.
-
-- Atualmente, sou estudante do 1.º ano de Engenharia da Computação na Universidade de Taubaté (UNITAU), onde desenvolvo competências em programação, algoritmos, redes de computadores e sistemas embarcados. Conquistei uma bolsa de estudos integral por mérito, sendo reconhecido como o melhor aluno do ensino médio, o que me permitiu ingressar na universidade sem custos.
-
-- Tenho interesse em desenvolvimento de software, inteligência artificial e tecnologia da informação, e estou sempre à procura de oportunidades para expandir o meu conhecimento e ganhar experiência prática na área.
-
-## 👾💪 Meus Hobbys
-
-- Esporte ⚽️
-- Musculação 💪
-- Filmes 🎦
-- Séries 🎦
-- Ficção 🧹
-- ciência ☄
-- vídeo games 🎮
-- RPG 🎲
-- Música 🎶
-- Formula 1 🏎🏁
-
-## 🤩🏆 Minhas Conquistas
-
-- 🏆 Tive a oportunidade de participar de uma palestra no INPE (Instituto Nacional de Pesquisas Espaciais), o que ampliou minha visão sobre tecnologia e inovação científica.
-- 👑 Conquistei uma bolsa de estudos integral por meio do Programa de Acesso ao Ensino Superior (PROMAES), sendo reconhecido como o melhor aluno do meu colégio no Ensino Médio.
-
-## 📃📃 GitHub Status
+**`Desenvolvedor Web`**
 
 <div align="center">
-<a href="https://github.com/d4vi-max/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=d4vi-max&theme=dracula" />
-</a>
-<a href="https://github.com/d4vi-max/convoychat">
-  <img height=200 width=550 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=d4vi-max&layout=compact&langs_count=8&card_width=320&theme=dracula" />
-</a>
+  <img align="right" src="https://media.tenor.com/Peam21L3Ar0AAAAj/hum.gif" height="200" style="margin-right: 20px;" />
+  <div align="left">
+    <p>
+      - Olá, muito prazer, me chamo Davi Nicésio Martins de Resende e tenho 17 anos. <br>
+      Sou formado em Técnico em Informática para Internet com foco em Desenvolvimento Web pela ETEC.
+      Atualmente, estou cursando Engenharia da Computação na Universidade de Taubaté (UNITAU), onde desenvolvo competências em programação, algoritmos, redes de computadores e sistemas embarcados. Conquistei uma bolsa de estudos integral por mérito, sendo reconhecido como o melhor aluno do ensino médio, o que me permitiu ingressar na universidade sem custos. 
+      Tenho interesse em desenvolvimento de software, inteligência artificial e tecnologia da informação, e estou sempre à procura de oportunidades para expandir o meu conhecimento e ganhar experiência prática na área.
+    </p>
+  </div>
 </div>
 
-## 👨‍💻💻 Tecnologias - Ferramentas
-
-<div align="center" style="display: inline_block"><br>
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-</div>
-
-## 📌📌 Contatos
-
-<div align="center" >
+<div>
     <a href="https://www.youtube.com/@d4vi_964" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
@@ -70,9 +32,37 @@
     </a>
 </div>
 
-<div align="center" >
-<img height=200 align="center" src="https://media3.giphy.com/media/kSxi9DiWH4Q8q1Kbql/giphy.gif?cid=6c09b9528opnifkxjnoo6dlativ2ho40bzizr6n4pqg557wf&ep=v1_stickers_search&rid=giphy.gif&ct=s" />
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<div align="center" style="display: inline_block"><br>
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="65" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" height="65" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
+<br/>
+<br/>
 
+### 📊 Estatísticas
 
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=d4vi-max&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4vi-max&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
