@@ -5,7 +5,7 @@
 <div align="center">
   <img align="right" src="https://media.tenor.com/Peam21L3Ar0AAAAj/hum.gif" height="200" style="margin-right: 20px;" />
   <div align="left">
-    <p>
+    <p align="justify">
       - Olá, muito prazer, me chamo Davi Nicésio Martins de Resende e tenho 17 anos. <br>
       Sou formado em Técnico em Informática para Internet com foco em Desenvolvimento Web pela ETEC.
       Atualmente, estou cursando Engenharia da Computação na Universidade de Taubaté (UNITAU), onde desenvolvo competências em programação, algoritmos, redes de computadores e sistemas embarcados. Conquistei uma bolsa de estudos integral por mérito, sendo reconhecido como o melhor aluno do ensino médio, o que me permitiu ingressar na universidade sem custos. 
